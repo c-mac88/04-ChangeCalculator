@@ -1,0 +1,30 @@
+body {
+	background-color: blue;
+}
+
+#input {
+	background-color: black;
+	margin: 10px;
+}
+
+#h2a {
+	color: white;
+}
+
+#h2b {
+	color: white;
+}
+
+p {
+	display: inline;
+	padding: 20px;
+}
+
+h3 {
+	display: inline;
+	padding: 20px;
+}
+
+#dollarTag {
+	text-align: center;
+}
